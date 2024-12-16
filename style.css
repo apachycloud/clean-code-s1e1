@@ -100,7 +100,7 @@ label[for="new-task-input"] {
   margin: 0 0 20px;
 }
 
-.task-row #new-task-input {
+.task-row__input {
   width: 318px;
 }
 
